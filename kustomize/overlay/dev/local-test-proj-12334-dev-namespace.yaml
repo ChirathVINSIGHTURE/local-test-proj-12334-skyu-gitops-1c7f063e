@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: local-test-proj-12334-dev
+  labels:
+    environment-id: env_6a8a2916-3429-49a8-9c83-207f9a6c86fa
+    project-id: project_0677db77-e894-4f06-8b8f-7453c8048313
+    project-name: local-test-proj-12334
+    environment-name: dev
+    organization-id: org_e59ceffb-14d2-4f54-a93d-ed998cc11b2e
